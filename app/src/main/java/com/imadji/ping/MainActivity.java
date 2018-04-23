@@ -15,7 +15,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getSimpleName();
 
-    public static final String ACTION_FIREBASE_TOKEN_REFRESH = "com.imadji.ping.action.ACTION_FCM_TOKEN_REFRESH";
+    public static final String ACTION_FIREBASE_TOKEN_REFRESH = "com.imadji.ping.action.ACTION_FIREBASE_TOKEN_REFRESH";
     public static final String EXTRA_MESSAGE = "com.imadji.ping.extras.EXTRA_MESSAGE";
     public static final String PREF_FIREBASE_TOKEN = "PREF_FIREBASE_TOKEN";
 
