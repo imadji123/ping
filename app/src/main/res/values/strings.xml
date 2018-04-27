@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Ping!</string>
     <string name="main_token_label">Token:</string>
     <string name="main_token_dummy">1234567890</string>
     <string name="main_message_label">Message:</string>
